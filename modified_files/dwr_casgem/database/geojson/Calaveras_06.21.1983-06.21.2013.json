@@ -1,0 +1,1781 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "EPSG:4269"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "bbox": [
+        -120.9661, 
+        38.0385, 
+        -120.8433, 
+        38.1986
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.8433, 
+                    38.0385
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "380385N1208433W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Golder Associates9", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2011", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "157.750", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "520.660", 
+                "rp_to_ws": "157.750", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "520.660", 
+                "date": "9/6/2011", 
+                "day": "6", 
+                "reading_rp": "157.750", 
+                "wse": "362.910", 
+                "well": "W001", 
+                "local_well_number": "CCWD 016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.8433, 
+                    38.0385
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "380385N1208433W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Water level not collected by DE12", 
+                "county": "Calaveras", 
+                "measurement_method": "", 
+                "year": "2012", 
+                "reading_ws": "NULL", 
+                "no_measurement": "7 - Special/Other", 
+                "gs_to_ws": "NULL", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "520.660", 
+                "rp_to_ws": "NULL", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "520.660", 
+                "date": "12/20/2012", 
+                "day": "20", 
+                "reading_rp": "NULL", 
+                "wse": "NULL", 
+                "well": "W001", 
+                "local_well_number": "CCWD 016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.8433, 
+                    38.0385
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "380385N1208433W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Water level not collected by DE12", 
+                "county": "Calaveras", 
+                "measurement_method": "", 
+                "year": "2012", 
+                "reading_ws": "NULL", 
+                "no_measurement": "7 - Special/Other", 
+                "gs_to_ws": "NULL", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "520.660", 
+                "rp_to_ws": "NULL", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "520.660", 
+                "date": "12/20/2012", 
+                "day": "20", 
+                "reading_rp": "NULL", 
+                "wse": "NULL", 
+                "well": "W001", 
+                "local_well_number": "CCWD 016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.8433, 
+                    38.0385
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "380385N1208433W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Water level not collected by DE3", 
+                "county": "Calaveras", 
+                "measurement_method": "", 
+                "year": "2013", 
+                "reading_ws": "NULL", 
+                "no_measurement": "7 - Special/Other", 
+                "gs_to_ws": "NULL", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "520.660", 
+                "rp_to_ws": "NULL", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "520.660", 
+                "date": "3/29/2013", 
+                "day": "29", 
+                "reading_rp": "NULL", 
+                "wse": "NULL", 
+                "well": "W001", 
+                "local_well_number": "CCWD 016"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9233, 
+                    38.0867
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "380867N1209233W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental9", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "158.220", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "229.700", 
+                "rp_to_ws": "158.920", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "229.000", 
+                "date": "9/12/2012", 
+                "day": "12", 
+                "reading_rp": "158.920", 
+                "wse": "70.780", 
+                "well": "W001", 
+                "local_well_number": "CCWD 008"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9233, 
+                    38.0867
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "380867N1209233W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental12", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "152.970", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "229.700", 
+                "rp_to_ws": "153.670", 
+                "military_time_pst": "11:30", 
+                "questionable_measurement": "1 - Pumping", 
+                "gs_elevation": "229.000", 
+                "date": "12/20/2012", 
+                "day": "20", 
+                "reading_rp": "153.670", 
+                "wse": "76.030", 
+                "well": "W001", 
+                "local_well_number": "CCWD 008"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9233, 
+                    38.0867
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "380867N1209233W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental3", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2013", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "151.420", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "229.700", 
+                "rp_to_ws": "152.120", 
+                "military_time_pst": "11:55", 
+                "questionable_measurement": "", 
+                "gs_elevation": "229.000", 
+                "date": "3/29/2013", 
+                "day": "29", 
+                "reading_rp": "152.120", 
+                "wse": "77.580", 
+                "well": "W001", 
+                "local_well_number": "CCWD 008"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9167, 
+                    38.0914
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "380914N1209167W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental8", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "144.480", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "273.700", 
+                "rp_to_ws": "145.180", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "273.000", 
+                "date": "8/8/2012", 
+                "day": "8", 
+                "reading_rp": "145.180", 
+                "wse": "128.520", 
+                "well": "W001", 
+                "local_well_number": "CCWD 003"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9167, 
+                    38.0914
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "380914N1209167W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental12", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "138.300", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "273.700", 
+                "rp_to_ws": "139.000", 
+                "military_time_pst": "12:15", 
+                "questionable_measurement": "", 
+                "gs_elevation": "273.000", 
+                "date": "12/20/2012", 
+                "day": "20", 
+                "reading_rp": "139.000", 
+                "wse": "134.700", 
+                "well": "W001", 
+                "local_well_number": "CCWD 003"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9167, 
+                    38.0914
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "380914N1209167W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental3", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2013", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "138.260", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "273.700", 
+                "rp_to_ws": "138.960", 
+                "military_time_pst": "11:34", 
+                "questionable_measurement": "", 
+                "gs_elevation": "273.000", 
+                "date": "3/29/2013", 
+                "day": "29", 
+                "reading_rp": "138.960", 
+                "wse": "134.740", 
+                "well": "W001", 
+                "local_well_number": "CCWD 003"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.8903, 
+                    38.1036
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381036N1208903W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental8", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "192.030", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "273.500", 
+                "rp_to_ws": "193.530", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "272.000", 
+                "date": "8/8/2012", 
+                "day": "8", 
+                "reading_rp": "193.530", 
+                "wse": "79.970", 
+                "well": "W001", 
+                "local_well_number": "CCWD 002"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.8903, 
+                    38.1036
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381036N1208903W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental12", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "186.980", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "273.500", 
+                "rp_to_ws": "188.480", 
+                "military_time_pst": "16:45", 
+                "questionable_measurement": "", 
+                "gs_elevation": "272.000", 
+                "date": "12/19/2012", 
+                "day": "19", 
+                "reading_rp": "188.480", 
+                "wse": "85.020", 
+                "well": "W001", 
+                "local_well_number": "CCWD 002"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.8903, 
+                    38.1036
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381036N1208903W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Pump on; Collected by Dunn Environmental3", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2013", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "175.040", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "273.500", 
+                "rp_to_ws": "176.540", 
+                "military_time_pst": "11:00", 
+                "questionable_measurement": "1 - Pumping", 
+                "gs_elevation": "272.000", 
+                "date": "3/29/2013", 
+                "day": "29", 
+                "reading_rp": "176.540", 
+                "wse": "96.960", 
+                "well": "W001", 
+                "local_well_number": "CCWD 002"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.8903, 
+                    38.1042
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381042N1208903W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental8", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "186.910", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "273.500", 
+                "rp_to_ws": "188.410", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "272.000", 
+                "date": "8/8/2012", 
+                "day": "8", 
+                "reading_rp": "188.410", 
+                "wse": "85.090", 
+                "well": "W001", 
+                "local_well_number": "CCWD 001"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.8903, 
+                    38.1042
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381042N1208903W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental12", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "184.650", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "273.500", 
+                "rp_to_ws": "186.150", 
+                "military_time_pst": "16:30", 
+                "questionable_measurement": "", 
+                "gs_elevation": "272.000", 
+                "date": "12/19/2012", 
+                "day": "19", 
+                "reading_rp": "186.150", 
+                "wse": "87.350", 
+                "well": "W001", 
+                "local_well_number": "CCWD 001"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.8903, 
+                    38.1042
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381042N1208903W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental3", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2013", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "172.620", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "273.500", 
+                "rp_to_ws": "174.120", 
+                "military_time_pst": "11:10", 
+                "questionable_measurement": "", 
+                "gs_elevation": "272.000", 
+                "date": "3/29/2013", 
+                "day": "29", 
+                "reading_rp": "174.120", 
+                "wse": "99.380", 
+                "well": "W001", 
+                "local_well_number": "CCWD 001"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9111, 
+                    38.1042
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381042N1209111W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental9", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "77.100", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "195.200", 
+                "rp_to_ws": "78.300", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "194.000", 
+                "date": "9/12/2012", 
+                "day": "12", 
+                "reading_rp": "78.300", 
+                "wse": "116.900", 
+                "well": "W001", 
+                "local_well_number": "CCWD 009"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9111, 
+                    38.1042
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381042N1209111W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental12", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "77.180", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "195.200", 
+                "rp_to_ws": "78.380", 
+                "military_time_pst": "11:25", 
+                "questionable_measurement": "", 
+                "gs_elevation": "194.000", 
+                "date": "12/19/2012", 
+                "day": "19", 
+                "reading_rp": "78.380", 
+                "wse": "116.820", 
+                "well": "W001", 
+                "local_well_number": "CCWD 009"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9111, 
+                    38.1042
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381042N1209111W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental3", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2013", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "76.880", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "195.200", 
+                "rp_to_ws": "78.080", 
+                "military_time_pst": "10:45", 
+                "questionable_measurement": "", 
+                "gs_elevation": "194.000", 
+                "date": "3/29/2013", 
+                "day": "29", 
+                "reading_rp": "78.080", 
+                "wse": "117.120", 
+                "well": "W001", 
+                "local_well_number": "CCWD 009"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9322, 
+                    38.1272
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381272N1209322W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental9", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "133.020", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "229.200", 
+                "rp_to_ws": "132.220", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "230.000", 
+                "date": "9/12/2012", 
+                "day": "12", 
+                "reading_rp": "132.220", 
+                "wse": "96.980", 
+                "well": "W001", 
+                "local_well_number": "CCWD 004"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9322, 
+                    38.1272
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381272N1209322W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental12", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "126.680", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "229.200", 
+                "rp_to_ws": "125.880", 
+                "military_time_pst": "14:15", 
+                "questionable_measurement": "", 
+                "gs_elevation": "230.000", 
+                "date": "12/20/2012", 
+                "day": "20", 
+                "reading_rp": "125.880", 
+                "wse": "103.320", 
+                "well": "W001", 
+                "local_well_number": "CCWD 004"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9322, 
+                    38.1272
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381272N1209322W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental3", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2013", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "126.290", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "229.200", 
+                "rp_to_ws": "125.490", 
+                "military_time_pst": "12:30", 
+                "questionable_measurement": "", 
+                "gs_elevation": "230.000", 
+                "date": "3/29/2013", 
+                "day": "29", 
+                "reading_rp": "125.490", 
+                "wse": "103.710", 
+                "well": "W001", 
+                "local_well_number": "CCWD 004"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9322, 
+                    38.1272
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381272N1209322W002", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental9", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "131.330", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "229.200", 
+                "rp_to_ws": "130.530", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "230.000", 
+                "date": "9/12/2012", 
+                "day": "12", 
+                "reading_rp": "130.530", 
+                "wse": "98.670", 
+                "well": "W002", 
+                "local_well_number": "CCWD 005"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9322, 
+                    38.1272
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381272N1209322W002", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental12", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "123.330", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "229.200", 
+                "rp_to_ws": "122.530", 
+                "military_time_pst": "14:16", 
+                "questionable_measurement": "", 
+                "gs_elevation": "230.000", 
+                "date": "12/20/2012", 
+                "day": "20", 
+                "reading_rp": "122.530", 
+                "wse": "106.670", 
+                "well": "W002", 
+                "local_well_number": "CCWD 005"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9322, 
+                    38.1272
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381272N1209322W002", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental3", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2013", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "123.610", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "229.200", 
+                "rp_to_ws": "122.810", 
+                "military_time_pst": "12:25", 
+                "questionable_measurement": "", 
+                "gs_elevation": "230.000", 
+                "date": "3/29/2013", 
+                "day": "29", 
+                "reading_rp": "122.810", 
+                "wse": "106.390", 
+                "well": "W002", 
+                "local_well_number": "CCWD 005"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9322, 
+                    38.1272
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381272N1209322W003", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental9", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "122.980", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "229.200", 
+                "rp_to_ws": "122.180", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "230.000", 
+                "date": "9/12/2012", 
+                "day": "12", 
+                "reading_rp": "122.180", 
+                "wse": "107.020", 
+                "well": "W003", 
+                "local_well_number": "CCWD 006"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9322, 
+                    38.1272
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381272N1209322W003", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental12", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "121.670", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "229.200", 
+                "rp_to_ws": "120.870", 
+                "military_time_pst": "14:17", 
+                "questionable_measurement": "", 
+                "gs_elevation": "230.000", 
+                "date": "12/20/2012", 
+                "day": "20", 
+                "reading_rp": "120.870", 
+                "wse": "108.330", 
+                "well": "W003", 
+                "local_well_number": "CCWD 006"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9322, 
+                    38.1272
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381272N1209322W003", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental3", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2013", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "120.826", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "229.200", 
+                "rp_to_ws": "120.026", 
+                "military_time_pst": "12:35", 
+                "questionable_measurement": "", 
+                "gs_elevation": "230.000", 
+                "date": "3/29/2013", 
+                "day": "29", 
+                "reading_rp": "120.026", 
+                "wse": "109.174", 
+                "well": "W003", 
+                "local_well_number": "CCWD 006"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9322, 
+                    38.1272
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381272N1209322W004", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Well dry, DTW > well depth (110 feet); Collected by Dunn Environmental9", 
+                "county": "Calaveras", 
+                "measurement_method": "", 
+                "year": "2012", 
+                "reading_ws": "NULL", 
+                "no_measurement": "7 - Special/Other", 
+                "gs_to_ws": "NULL", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "229.200", 
+                "rp_to_ws": "NULL", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "230.000", 
+                "date": "9/12/2012", 
+                "day": "12", 
+                "reading_rp": "NULL", 
+                "wse": "NULL", 
+                "well": "W004", 
+                "local_well_number": "CCWD 007"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9322, 
+                    38.1272
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381272N1209322W004", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Well dry, DTW > well depth (107 feet); Collected by Dunn Environmental12", 
+                "county": "Calaveras", 
+                "measurement_method": "", 
+                "year": "2012", 
+                "reading_ws": "NULL", 
+                "no_measurement": "7 - Special/Other", 
+                "gs_to_ws": "NULL", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "229.200", 
+                "rp_to_ws": "NULL", 
+                "military_time_pst": "14:18", 
+                "questionable_measurement": "", 
+                "gs_elevation": "230.000", 
+                "date": "12/20/2012", 
+                "day": "20", 
+                "reading_rp": "NULL", 
+                "wse": "NULL", 
+                "well": "W004", 
+                "local_well_number": "CCWD 007"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9322, 
+                    38.1272
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381272N1209322W004", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Well dry, DTW > well depth (107 feet); Collected by Dunn Environmental3", 
+                "county": "Calaveras", 
+                "measurement_method": "", 
+                "year": "2013", 
+                "reading_ws": "NULL", 
+                "no_measurement": "7 - Special/Other", 
+                "gs_to_ws": "NULL", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "229.200", 
+                "rp_to_ws": "NULL", 
+                "military_time_pst": "12:40", 
+                "questionable_measurement": "", 
+                "gs_elevation": "230.000", 
+                "date": "3/29/2013", 
+                "day": "29", 
+                "reading_rp": "NULL", 
+                "wse": "NULL", 
+                "well": "W004", 
+                "local_well_number": "CCWD 007"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9406, 
+                    38.1511
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381511N1209406W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental9", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "223.380", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "398.710", 
+                "rp_to_ws": "224.090", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "398.000", 
+                "date": "9/12/2012", 
+                "day": "12", 
+                "reading_rp": "224.090", 
+                "wse": "174.620", 
+                "well": "W001", 
+                "local_well_number": "CCWD 014"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9406, 
+                    38.1511
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381511N1209406W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental12", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "230.410", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "398.710", 
+                "rp_to_ws": "231.120", 
+                "military_time_pst": "17:10", 
+                "questionable_measurement": "", 
+                "gs_elevation": "398.000", 
+                "date": "12/20/2012", 
+                "day": "20", 
+                "reading_rp": "231.120", 
+                "wse": "167.590", 
+                "well": "W001", 
+                "local_well_number": "CCWD 014"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9406, 
+                    38.1511
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381511N1209406W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental3", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2013", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "234.250", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "398.710", 
+                "rp_to_ws": "234.960", 
+                "military_time_pst": "13:30", 
+                "questionable_measurement": "", 
+                "gs_elevation": "398.000", 
+                "date": "3/29/2013", 
+                "day": "29", 
+                "reading_rp": "234.960", 
+                "wse": "163.750", 
+                "well": "W001", 
+                "local_well_number": "CCWD 014"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9292, 
+                    38.1628
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381628N1209292W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental9", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "129.360", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "222.100", 
+                "rp_to_ws": "128.460", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "223.000", 
+                "date": "9/12/2012", 
+                "day": "12", 
+                "reading_rp": "128.460", 
+                "wse": "93.640", 
+                "well": "W001", 
+                "local_well_number": "CCWD 010"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9292, 
+                    38.1628
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381628N1209292W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental12", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "127.280", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "222.100", 
+                "rp_to_ws": "126.380", 
+                "military_time_pst": "16:30", 
+                "questionable_measurement": "", 
+                "gs_elevation": "223.000", 
+                "date": "12/20/2012", 
+                "day": "20", 
+                "reading_rp": "126.380", 
+                "wse": "95.720", 
+                "well": "W001", 
+                "local_well_number": "CCWD 010"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9292, 
+                    38.1628
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381628N1209292W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental3", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2013", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "123.960", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "222.100", 
+                "rp_to_ws": "123.060", 
+                "military_time_pst": "13:15", 
+                "questionable_measurement": "", 
+                "gs_elevation": "223.000", 
+                "date": "3/29/2013", 
+                "day": "29", 
+                "reading_rp": "123.060", 
+                "wse": "99.040", 
+                "well": "W001", 
+                "local_well_number": "CCWD 010"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9292, 
+                    38.1628
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381628N1209292W002", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental9", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "132.890", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "222.100", 
+                "rp_to_ws": "131.990", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "223.000", 
+                "date": "9/12/2012", 
+                "day": "12", 
+                "reading_rp": "131.990", 
+                "wse": "90.110", 
+                "well": "W002", 
+                "local_well_number": "CCWD 011"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9292, 
+                    38.1628
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381628N1209292W002", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental12", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "132.050", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "222.100", 
+                "rp_to_ws": "131.150", 
+                "military_time_pst": "16:31", 
+                "questionable_measurement": "", 
+                "gs_elevation": "223.000", 
+                "date": "12/20/2012", 
+                "day": "20", 
+                "reading_rp": "131.150", 
+                "wse": "90.950", 
+                "well": "W002", 
+                "local_well_number": "CCWD 011"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9292, 
+                    38.1628
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381628N1209292W002", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental3", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2013", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "130.850", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "222.100", 
+                "rp_to_ws": "129.950", 
+                "military_time_pst": "13:10", 
+                "questionable_measurement": "", 
+                "gs_elevation": "223.000", 
+                "date": "3/29/2013", 
+                "day": "29", 
+                "reading_rp": "129.950", 
+                "wse": "92.150", 
+                "well": "W002", 
+                "local_well_number": "CCWD 011"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9292, 
+                    38.1628
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381628N1209292W003", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental9", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "72.630", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "222.100", 
+                "rp_to_ws": "71.730", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "223.000", 
+                "date": "9/12/2012", 
+                "day": "12", 
+                "reading_rp": "71.730", 
+                "wse": "150.370", 
+                "well": "W003", 
+                "local_well_number": "CCWD 012"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9292, 
+                    38.1628
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381628N1209292W003", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental12", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "71.410", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "222.100", 
+                "rp_to_ws": "70.510", 
+                "military_time_pst": "16:32", 
+                "questionable_measurement": "", 
+                "gs_elevation": "223.000", 
+                "date": "12/20/2012", 
+                "day": "20", 
+                "reading_rp": "70.510", 
+                "wse": "151.590", 
+                "well": "W003", 
+                "local_well_number": "CCWD 012"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9292, 
+                    38.1628
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381628N1209292W003", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental3", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2013", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "71.220", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "222.100", 
+                "rp_to_ws": "70.320", 
+                "military_time_pst": "13:05", 
+                "questionable_measurement": "", 
+                "gs_elevation": "223.000", 
+                "date": "3/29/2013", 
+                "day": "29", 
+                "reading_rp": "70.320", 
+                "wse": "151.780", 
+                "well": "W003", 
+                "local_well_number": "CCWD 012"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.8831, 
+                    38.1647
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381647N1208831W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental9", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "228.920", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "418.500", 
+                "rp_to_ws": "229.420", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "418.000", 
+                "date": "9/12/2012", 
+                "day": "12", 
+                "reading_rp": "229.420", 
+                "wse": "189.080", 
+                "well": "W001", 
+                "local_well_number": "CCWD 013"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.8831, 
+                    38.1647
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381647N1208831W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental12", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "230.700", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "418.500", 
+                "rp_to_ws": "231.200", 
+                "military_time_pst": "09:30", 
+                "questionable_measurement": "", 
+                "gs_elevation": "418.000", 
+                "date": "12/19/2012", 
+                "day": "19", 
+                "reading_rp": "231.200", 
+                "wse": "187.300", 
+                "well": "W001", 
+                "local_well_number": "CCWD 013"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.8831, 
+                    38.1647
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381647N1208831W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental3", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2013", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "228.310", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "418.500", 
+                "rp_to_ws": "228.810", 
+                "military_time_pst": "10:30", 
+                "questionable_measurement": "", 
+                "gs_elevation": "418.000", 
+                "date": "3/29/2013", 
+                "day": "29", 
+                "reading_rp": "228.810", 
+                "wse": "189.690", 
+                "well": "W001", 
+                "local_well_number": "CCWD 013"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9661, 
+                    38.1986
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381986N1209661W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental9", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "90.800", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "240.000", 
+                "rp_to_ws": "90.800", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "240.000", 
+                "date": "9/12/2012", 
+                "day": "12", 
+                "reading_rp": "90.800", 
+                "wse": "149.200", 
+                "well": "W001", 
+                "local_well_number": "CCWD 015"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9661, 
+                    38.1986
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381986N1209661W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental12", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "86.410", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "240.000", 
+                "rp_to_ws": "86.410", 
+                "military_time_pst": "08:55", 
+                "questionable_measurement": "", 
+                "gs_elevation": "240.000", 
+                "date": "12/20/2012", 
+                "day": "20", 
+                "reading_rp": "86.410", 
+                "wse": "153.590", 
+                "well": "W001", 
+                "local_well_number": "CCWD 015"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9661, 
+                    38.1986
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381986N1209661W001", 
+            "properties": {
+                "collecting": "Calaveras County Water District", 
+                "measurement_accuracy": "0.01 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "Collected by Dunn Environmental3", 
+                "county": "Calaveras", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2013", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "84.210", 
+                "comments": "CASGEM", 
+                "filename": "Calaveras_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "240.000", 
+                "rp_to_ws": "84.210", 
+                "military_time_pst": "14:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "240.000", 
+                "date": "3/29/2013", 
+                "day": "29", 
+                "reading_rp": "84.210", 
+                "wse": "155.790", 
+                "well": "W001", 
+                "local_well_number": "CCWD 015"
+            }
+        }
+    ]
+}

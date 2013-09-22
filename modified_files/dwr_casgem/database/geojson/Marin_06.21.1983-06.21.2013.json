@@ -1,0 +1,125 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "EPSG:4269"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "bbox": [
+        -122.5197, 
+        38.106, 
+        -122.5197, 
+        38.106
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.5197, 
+                    38.106
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381060N1225197W001", 
+            "properties": {
+                "collecting": "Department of Water Resources", 
+                "measurement_accuracy": "", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "gate locked5", 
+                "county": "Marin", 
+                "measurement_method": "", 
+                "year": "2012", 
+                "reading_ws": "NULL", 
+                "no_measurement": "9 - Temporarily inaccessible", 
+                "gs_to_ws": "NULL", 
+                "comments": "Voluntary", 
+                "filename": "Marin_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "13.660", 
+                "rp_to_ws": "NULL", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "12.660", 
+                "date": "5/17/2012", 
+                "day": "17", 
+                "reading_rp": "NULL", 
+                "wse": "NULL", 
+                "well": "W001", 
+                "local_well_number": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.5197, 
+                    38.106
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381060N1225197W001", 
+            "properties": {
+                "collecting": "Department of Water Resources", 
+                "measurement_accuracy": "", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "gate locked11", 
+                "county": "Marin", 
+                "measurement_method": "", 
+                "year": "2012", 
+                "reading_ws": "NULL", 
+                "no_measurement": "9 - Temporarily inaccessible", 
+                "gs_to_ws": "NULL", 
+                "comments": "Voluntary", 
+                "filename": "Marin_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "13.660", 
+                "rp_to_ws": "NULL", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "12.660", 
+                "date": "11/29/2012", 
+                "day": "29", 
+                "reading_rp": "NULL", 
+                "wse": "NULL", 
+                "well": "W001", 
+                "local_well_number": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.5197, 
+                    38.106
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381060N1225197W001", 
+            "properties": {
+                "collecting": "Department of Water Resources", 
+                "measurement_accuracy": "", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "gate locked4", 
+                "county": "Marin", 
+                "measurement_method": "", 
+                "year": "2013", 
+                "reading_ws": "NULL", 
+                "no_measurement": "9 - Temporarily inaccessible", 
+                "gs_to_ws": "NULL", 
+                "comments": "Voluntary", 
+                "filename": "Marin_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "13.660", 
+                "rp_to_ws": "NULL", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "12.660", 
+                "date": "4/17/2013", 
+                "day": "17", 
+                "reading_rp": "NULL", 
+                "wse": "NULL", 
+                "well": "W001", 
+                "local_well_number": ""
+            }
+        }
+    ]
+}

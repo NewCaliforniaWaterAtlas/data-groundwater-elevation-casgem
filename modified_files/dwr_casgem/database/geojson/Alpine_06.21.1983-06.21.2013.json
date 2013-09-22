@@ -1,0 +1,773 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "EPSG:4269"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "bbox": [
+        -119.7837, 
+        38.8088, 
+        -119.7574, 
+        38.8406
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7777, 
+                    38.8088
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388088N1197777W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "11", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2011", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "13.710", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "5,090.300", 
+                "rp_to_ws": "13.360", 
+                "military_time_pst": "13:42", 
+                "questionable_measurement": "", 
+                "gs_elevation": "5,090.650", 
+                "date": "11/21/2011", 
+                "day": "21", 
+                "reading_rp": "13.360", 
+                "wse": "5,076.940", 
+                "well": "W001", 
+                "local_well_number": "ACMW-20"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7777, 
+                    38.8088
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388088N1197777W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "5", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "10.140", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "5,090.300", 
+                "rp_to_ws": "9.790", 
+                "military_time_pst": "08:54", 
+                "questionable_measurement": "", 
+                "gs_elevation": "5,090.650", 
+                "date": "5/10/2012", 
+                "day": "10", 
+                "reading_rp": "9.790", 
+                "wse": "5,080.510", 
+                "well": "W001", 
+                "local_well_number": "ACMW-20"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7788, 
+                    38.8151
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388151N1197788W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "DRY11", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2011", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "0.780", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "5,048.930", 
+                "rp_to_ws": "0.000", 
+                "military_time_pst": "14:54", 
+                "questionable_measurement": "", 
+                "gs_elevation": "5,049.710", 
+                "date": "11/21/2011", 
+                "day": "21", 
+                "reading_rp": "0.000", 
+                "wse": "5,048.930", 
+                "well": "W001", 
+                "local_well_number": "ACMW-03W"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7788, 
+                    38.8151
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388151N1197788W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "DRY5", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "0.780", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "5,048.930", 
+                "rp_to_ws": "0.000", 
+                "military_time_pst": "12:25", 
+                "questionable_measurement": "", 
+                "gs_elevation": "5,049.710", 
+                "date": "5/15/2012", 
+                "day": "15", 
+                "reading_rp": "0.000", 
+                "wse": "5,048.930", 
+                "well": "W001", 
+                "local_well_number": "ACMW-03W"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7771, 
+                    38.8199
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388199N1197771W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "11", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2011", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "12.710", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "5,011.330", 
+                "rp_to_ws": "12.460", 
+                "military_time_pst": "13:55", 
+                "questionable_measurement": "", 
+                "gs_elevation": "5,011.580", 
+                "date": "11/21/2011", 
+                "day": "21", 
+                "reading_rp": "12.460", 
+                "wse": "4,998.870", 
+                "well": "W001", 
+                "local_well_number": "ACMW-21"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7771, 
+                    38.8199
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388199N1197771W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "5", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "14.450", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "5,011.330", 
+                "rp_to_ws": "14.200", 
+                "military_time_pst": "09:37", 
+                "questionable_measurement": "", 
+                "gs_elevation": "5,011.580", 
+                "date": "5/10/2012", 
+                "day": "10", 
+                "reading_rp": "14.200", 
+                "wse": "4,997.130", 
+                "well": "W001", 
+                "local_well_number": "ACMW-21"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7753, 
+                    38.8213
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388213N1197753W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "9", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2011", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "16.650", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "4,996.000", 
+                "rp_to_ws": "17.650", 
+                "military_time_pst": "13:14", 
+                "questionable_measurement": "", 
+                "gs_elevation": "4,995.000", 
+                "date": "9/29/2011", 
+                "day": "29", 
+                "reading_rp": "17.650", 
+                "wse": "4,978.350", 
+                "well": "W001", 
+                "local_well_number": "USGS Well # 384917119463101"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7753, 
+                    38.8213
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388213N1197753W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "12", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2011", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "17.440", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "4,996.000", 
+                "rp_to_ws": "18.440", 
+                "military_time_pst": "12:07", 
+                "questionable_measurement": "", 
+                "gs_elevation": "4,995.000", 
+                "date": "12/1/2011", 
+                "day": "1", 
+                "reading_rp": "18.440", 
+                "wse": "4,977.560", 
+                "well": "W001", 
+                "local_well_number": "USGS Well # 384917119463101"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7753, 
+                    38.8213
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388213N1197753W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "3", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "20.400", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "4,996.000", 
+                "rp_to_ws": "21.400", 
+                "military_time_pst": "13:02", 
+                "questionable_measurement": "", 
+                "gs_elevation": "4,995.000", 
+                "date": "3/12/2012", 
+                "day": "12", 
+                "reading_rp": "21.400", 
+                "wse": "4,974.600", 
+                "well": "W001", 
+                "local_well_number": "USGS Well # 384917119463101"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7602, 
+                    38.8254
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388254N1197602W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "11", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2011", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "16.990", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "4,978.350", 
+                "rp_to_ws": "19.670", 
+                "military_time_pst": "13:03", 
+                "questionable_measurement": "", 
+                "gs_elevation": "4,975.670", 
+                "date": "11/21/2011", 
+                "day": "21", 
+                "reading_rp": "19.670", 
+                "wse": "4,958.680", 
+                "well": "W001", 
+                "local_well_number": "ACMW-23"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7602, 
+                    38.8254
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388254N1197602W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "5", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "15.230", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "4,978.350", 
+                "rp_to_ws": "17.910", 
+                "military_time_pst": "12:06", 
+                "questionable_measurement": "", 
+                "gs_elevation": "4,975.670", 
+                "date": "5/10/2012", 
+                "day": "10", 
+                "reading_rp": "17.910", 
+                "wse": "4,960.440", 
+                "well": "W001", 
+                "local_well_number": "ACMW-23"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7837, 
+                    38.829
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388290N1197837W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "11", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2011", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "28.010", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "5,019.280", 
+                "rp_to_ws": "27.720", 
+                "military_time_pst": "14:05", 
+                "questionable_measurement": "", 
+                "gs_elevation": "5,019.570", 
+                "date": "11/21/2011", 
+                "day": "21", 
+                "reading_rp": "27.720", 
+                "wse": "4,991.560", 
+                "well": "W001", 
+                "local_well_number": "ACMW-22"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7837, 
+                    38.829
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388290N1197837W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "5", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "27.770", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "5,019.280", 
+                "rp_to_ws": "27.480", 
+                "military_time_pst": "10:06", 
+                "questionable_measurement": "", 
+                "gs_elevation": "5,019.570", 
+                "date": "5/10/2012", 
+                "day": "10", 
+                "reading_rp": "27.480", 
+                "wse": "4,991.800", 
+                "well": "W001", 
+                "local_well_number": "ACMW-22"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7699, 
+                    38.8305
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388305N1197699W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "11", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2011", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "6.370", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "4,942.240", 
+                "rp_to_ws": "9.390", 
+                "military_time_pst": "14:18", 
+                "questionable_measurement": "", 
+                "gs_elevation": "4,939.220", 
+                "date": "11/21/2011", 
+                "day": "21", 
+                "reading_rp": "9.390", 
+                "wse": "4,932.850", 
+                "well": "W001", 
+                "local_well_number": "ACMW-25"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7699, 
+                    38.8305
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388305N1197699W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "5", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "3.150", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "4,942.240", 
+                "rp_to_ws": "6.170", 
+                "military_time_pst": "10:39", 
+                "questionable_measurement": "", 
+                "gs_elevation": "4,939.220", 
+                "date": "5/10/2012", 
+                "day": "10", 
+                "reading_rp": "6.170", 
+                "wse": "4,936.070", 
+                "well": "W001", 
+                "local_well_number": "ACMW-25"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7574, 
+                    38.8322
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388322N1197574W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "11", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2011", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "24.240", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "4,953.250", 
+                "rp_to_ws": "27.380", 
+                "military_time_pst": "13:14", 
+                "questionable_measurement": "", 
+                "gs_elevation": "4,950.110", 
+                "date": "11/21/2011", 
+                "day": "21", 
+                "reading_rp": "27.380", 
+                "wse": "4,925.870", 
+                "well": "W001", 
+                "local_well_number": "ACMW-24"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7574, 
+                    38.8322
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388322N1197574W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "5", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "20.000", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "4,953.250", 
+                "rp_to_ws": "23.140", 
+                "military_time_pst": "12:49", 
+                "questionable_measurement": "", 
+                "gs_elevation": "4,950.110", 
+                "date": "5/10/2012", 
+                "day": "10", 
+                "reading_rp": "23.140", 
+                "wse": "4,930.110", 
+                "well": "W001", 
+                "local_well_number": "ACMW-24"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7794, 
+                    38.8367
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388367N1197794W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "11", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2011", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "18.270", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "4,919.890", 
+                "rp_to_ws": "17.270", 
+                "military_time_pst": "14:44", 
+                "questionable_measurement": "", 
+                "gs_elevation": "4,920.890", 
+                "date": "11/21/2011", 
+                "day": "21", 
+                "reading_rp": "17.270", 
+                "wse": "4,902.620", 
+                "well": "W001", 
+                "local_well_number": "ACMW-04W"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7794, 
+                    38.8367
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388367N1197794W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "5", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "11.250", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "4,919.890", 
+                "rp_to_ws": "10.250", 
+                "military_time_pst": "12:52", 
+                "questionable_measurement": "", 
+                "gs_elevation": "4,920.890", 
+                "date": "5/15/2012", 
+                "day": "15", 
+                "reading_rp": "10.250", 
+                "wse": "4,909.640", 
+                "well": "W001", 
+                "local_well_number": "ACMW-04W"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7697, 
+                    38.8406
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388406N1197697W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "11", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2011", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "10.700", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "4,895.600", 
+                "rp_to_ws": "13.810", 
+                "military_time_pst": "14:26", 
+                "questionable_measurement": "", 
+                "gs_elevation": "4,892.490", 
+                "date": "11/21/2011", 
+                "day": "21", 
+                "reading_rp": "13.810", 
+                "wse": "4,881.790", 
+                "well": "W001", 
+                "local_well_number": "ACMW-26"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -119.7697, 
+                    38.8406
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388406N1197697W001", 
+            "properties": {
+                "collecting": "Alpine County", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "5", 
+                "county": "Alpine", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "0.000", 
+                "no_measurement": "", 
+                "gs_to_ws": "3.640", 
+                "comments": "CASGEM", 
+                "filename": "Alpine_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "4,895.600", 
+                "rp_to_ws": "6.750", 
+                "military_time_pst": "11:08", 
+                "questionable_measurement": "", 
+                "gs_elevation": "4,892.490", 
+                "date": "5/10/2012", 
+                "day": "10", 
+                "reading_rp": "6.750", 
+                "wse": "4,888.850", 
+                "well": "W001", 
+                "local_well_number": "ACMW-26"
+            }
+        }
+    ]
+}

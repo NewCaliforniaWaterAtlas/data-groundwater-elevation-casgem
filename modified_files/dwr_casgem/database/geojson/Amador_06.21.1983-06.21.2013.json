@@ -1,0 +1,197 @@
+{
+    "crs": {
+        "type": "name", 
+        "properties": {
+            "name": "EPSG:4269"
+        }
+    }, 
+    "type": "FeatureCollection", 
+    "bbox": [
+        -120.9959, 
+        38.2495, 
+        -120.9536, 
+        38.2587
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9536, 
+                    38.2495
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "382495N1209536W001", 
+            "properties": {
+                "collecting": "Amador Water Agency", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "3", 
+                "county": "Amador", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "35.590", 
+                "no_measurement": "", 
+                "gs_to_ws": "1.430", 
+                "comments": "Voluntary", 
+                "filename": "Amador_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "308.250", 
+                "rp_to_ws": "3.680", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "306.000", 
+                "date": "3/7/2012", 
+                "day": "7", 
+                "reading_rp": "39.270", 
+                "wse": "304.570", 
+                "well": "W001", 
+                "local_well_number": "AWA MW-2 03"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9536, 
+                    38.2495
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "382495N1209536W001", 
+            "properties": {
+                "collecting": "Amador Water Agency", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "3", 
+                "county": "Amador", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "35.590", 
+                "no_measurement": "", 
+                "gs_to_ws": "1.430", 
+                "comments": "Voluntary", 
+                "filename": "Amador_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "308.250", 
+                "rp_to_ws": "3.680", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "306.000", 
+                "date": "3/7/2012", 
+                "day": "7", 
+                "reading_rp": "39.270", 
+                "wse": "304.570", 
+                "well": "W001", 
+                "local_well_number": "AWA MW-2 03"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9949, 
+                    38.2586
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "382586N1209949W001", 
+            "properties": {
+                "collecting": "Amador Water Agency", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "3", 
+                "county": "Amador", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "116.300", 
+                "no_measurement": "", 
+                "gs_to_ws": "-86.510", 
+                "comments": "Voluntary", 
+                "filename": "Amador_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "274.710", 
+                "rp_to_ws": "-83.800", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "272.000", 
+                "date": "3/7/2012", 
+                "day": "7", 
+                "reading_rp": "32.500", 
+                "wse": "358.510", 
+                "well": "W001", 
+                "local_well_number": "AWA MW-1D 02"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9959, 
+                    38.2587
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "382587N1209959W001", 
+            "properties": {
+                "collecting": "Amador Water Agency", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "3", 
+                "county": "Amador", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "88.300", 
+                "no_measurement": "", 
+                "gs_to_ws": "-57.320", 
+                "comments": "Voluntary", 
+                "filename": "Amador_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "273.820", 
+                "rp_to_ws": "-54.500", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "271.000", 
+                "date": "3/7/2012", 
+                "day": "7", 
+                "reading_rp": "33.800", 
+                "wse": "328.320", 
+                "well": "W001", 
+                "local_well_number": "AWA MW-1S 01"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -120.9959, 
+                    38.2587
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "382587N1209959W001", 
+            "properties": {
+                "collecting": "Amador Water Agency", 
+                "measurement_accuracy": "0.1 Ft", 
+                "filetime": "2013-09-18 13:29:54", 
+                "month": "9", 
+                "county": "Amador", 
+                "measurement_method": "ES - Electric sounder measurement", 
+                "year": "2012", 
+                "reading_ws": "96.250", 
+                "no_measurement": "", 
+                "gs_to_ws": "-2.820", 
+                "comments": "Voluntary", 
+                "filename": "Amador_06.21.1983-06.21.2013.csv", 
+                "rp_elevation": "273.820", 
+                "rp_to_ws": "0.000", 
+                "military_time_pst": "00:00", 
+                "questionable_measurement": "", 
+                "gs_elevation": "271.000", 
+                "date": "9/6/2012", 
+                "day": "6", 
+                "reading_rp": "96.250", 
+                "wse": "273.820", 
+                "well": "W001", 
+                "local_well_number": "AWA MW-1S 01"
+            }
+        }
+    ]
+}
